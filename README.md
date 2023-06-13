@@ -4,7 +4,7 @@ Nostr Apple Store on Nostr
 
 ##  What NAS?
 
-NAS is a place allow users and developers release applications on Nostr of form not will have censorhip 
+NAS is a place allow users and developers release applications on Nostr of form not will have censorship
 
 ## How works?
 
