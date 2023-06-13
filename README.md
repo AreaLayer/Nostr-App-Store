@@ -1,6 +1,6 @@
-# Nostr-Apple-Store
+# Nostr App Store
 
-Nostr Apple Store on Nostr
+Nostr App Store on Nostr
 
 ##  What NAS?
 
