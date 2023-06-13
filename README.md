@@ -22,4 +22,5 @@ Developers can publish in relays and events the apps without need pay for platfo
 - [ ] PoC
 - [ ] Initial App development
 - [ ] Alpha platform 
+- [ ] PWA
 - [ ] Lightning Network integration via Zap
