@@ -8,7 +8,7 @@ NAS is a place allow users and developers release applications on Nostr of form 
 
 ## How works?
 
-Developers can publish in relays and events the apps without need pay for plataform
+Developers can publish in relays and events the apps without need pay for platform
 
 ### Specs
 
