@@ -2,7 +2,7 @@
 
 Nostr App Store on Nostr
 
-##  What NAS?
+##  What is NAS?
 
 NAS is a place allow users and developers release applications on Nostr of form not will have censorship
 
