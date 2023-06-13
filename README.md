@@ -15,6 +15,7 @@ Developers can publish in relays and events the apps without need pay for plataf
 - Developer publish on event or relay the app
 - The others relays accept and client main reconized the event
 - App is published
+- User can download the app via APK 
 
 ## Roadmap
 
