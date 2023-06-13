@@ -13,7 +13,7 @@ Developers can publish in relays and events the apps without need pay for platfo
 ### Specs
 
 - Developer publish on event or relay the app
-- The others relays accept and client main reconized the event
+- The others relays accept and client main recognize the event
 - App is published
 - User can download the app via APK 
 
