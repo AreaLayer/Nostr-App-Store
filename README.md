@@ -19,7 +19,7 @@ Developers can publish in relays and events the apps without need pay for platfo
 
 ## Roadmap
 
-- [ ] PoC
+- [x] PoC
 - [ ] Initial App development
 - [ ] Alpha platform 
 - [ ] PWA
