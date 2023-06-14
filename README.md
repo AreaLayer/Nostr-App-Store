@@ -6,7 +6,7 @@ Nostr App Store on Nostr
 
 NAS is a place allow users and developers release applications on Nostr of form not will have censorship
 
-## HFeatures
+## Features
 
 Developers can publish in relays and events the apps without need pay for platform
 
