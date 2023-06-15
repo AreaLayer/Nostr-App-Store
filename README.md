@@ -20,7 +20,7 @@ Developers can publish in relays and events the apps without need pay for platfo
 ## Roadmap
 
 - [x] PoC
-- [ ] Initial App development
+- [x] Initial App development
 - [ ] Alpha platform 
 - [ ] PWA
 - [ ] Lightning Network integration via Zap
