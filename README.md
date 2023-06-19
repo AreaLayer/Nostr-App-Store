@@ -19,7 +19,7 @@ Developers can publish in relays and events the apps without need pay for platfo
 
 ## Roadmap
 
-- [x] PoC
+- [x] [PoC](https://github.com/AreaLayer/Nostr-App-Store-PoC)
 - [x] Initial App development
 - [ ] Alpha platform 
 - [ ] PWA
