@@ -7,7 +7,8 @@ const {
   generatePrivateKey,
   finishEvent,
   SimplePool,
-} = require('nostr-tools');
+= require 'nostr-tools'
+}
 
 export const decodeNpub = (npub) => nip19.decode(npub).data;
 
