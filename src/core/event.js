@@ -1,4 +1,13 @@
- const nostr = require('nostr-tools');
+import {
+  relayInit,
+  generatePrivateKey,
+  getPublicKey,
+  getEventHash,
+  getSignature
+} from 'nostr-tools'
+
+
+const nostr = require('nostr-tools');
 const nostr = require('relay');
 const nostr = require('event');
 
