@@ -1,2 +1,11 @@
-const nostr = require('nostr-tools');
-const nostr = require('nostr-tools');
+import
+{
+{verifySignature, validateEvent, type Event},
+{matchFilters, type Filter},
+{getHex64, getSubscriptionId},
+{ MessageQueue },
+from
+('nostr-tools');
+
+const relayevent
+
