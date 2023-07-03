@@ -2,10 +2,6 @@
 
 Nostr App Store on Nostr
 
-##  What is NAS?
-
-NAS is a place allow users and developers release applications on Nostr of form not will have censorship
-
 ## Features
 
 Developers can publish in relays and events the apps without need pay for platform
