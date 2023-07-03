@@ -1,4 +1,4 @@
-# Nostr App Store
+# Nostr App Store 🟣 🏪
 
 Nostr App Store on Nostr
 
