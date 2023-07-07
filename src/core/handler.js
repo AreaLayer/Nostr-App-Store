@@ -1,6 +1,6 @@
 import {
-  secretKey
-  handler
-  remoteHandler
-  event
+  secretKey,
+  handler,
+  remoteHandler,
+  event,
 } from 'nostr-tools'
