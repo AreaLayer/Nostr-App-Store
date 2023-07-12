@@ -7,5 +7,10 @@ import
 from
 ('nostr-tools');
 
-const relayevent
+const event
+
+const filter
+
+const relay
+
 
