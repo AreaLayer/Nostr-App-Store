@@ -1,6 +1,7 @@
 {
-"Event",
-"Relay",
-"Apps",
-"AppEdit",
+"Components",
+"Event": true,
+"Relay": true,
+"Apps": true
+"AppEdit": true
 }
