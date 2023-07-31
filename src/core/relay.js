@@ -7,10 +7,13 @@ import
 from
 ('nostr-tools');
 
-const event
+const event = {
+  
 
 const filter
 
-const relay
+const relay = {
+  
+   
 
 
