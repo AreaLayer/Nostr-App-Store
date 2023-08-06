@@ -20,3 +20,4 @@ Developers can publish in relays and events the apps without need pay for platfo
 - [ ] Alpha platform 
 - [ ] PWA
 - [x] Lightning Network integration via Zap
+- [ ] [PKGZap](https://pkgzap.albylabs.com/) for allow devs receive donations from users
