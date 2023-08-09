@@ -4,7 +4,9 @@ Nostr App Store on Nostr
 
 ## Features
 
-Developers can publish in relays and events the apps without need pay for platform
+- Developers can publish in relays and events the apps without need pay for platform
+- Receive Zaps for your apps published
+- Donations
 
 ### Specs
 
