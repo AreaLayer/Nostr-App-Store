@@ -10,28 +10,16 @@ import {
 } from 'nostr-tools';
 
 const event = {
-  // Define the event properties here
-  // For example:
-  eventId: 'event123',
+  eventId: 'kind:31990,',
   timestamp: Date.now(),
-  payload: { data: 'example data' },
-  // ...
-};
-
-const filter = {
-  // Define the filter properties here
-  // For example:
-  filterId: 'filter456',
-  eventType: 'someEventType',
+  payload: { data: 'app' },
   // ...
 };
 
 const relay = {
-  // Define the relay properties here
-  // For example:
-  relayId: 'relay789',
-  endpoint: 'https://example.com/relay-endpoint',
-  // ...
+ 
+  relayId: 'damus',
+  endpoint: 'wss//relay.damus.io',
 };
 
   
