@@ -2,6 +2,11 @@
 
 Nostr App Store on Nostr
 
+⚠️**Alpha sotware**
+
+**Contributions are welcome**
+
+
 ## Features
 
 - Developers can publish in relays and events the apps without need pay for platform
