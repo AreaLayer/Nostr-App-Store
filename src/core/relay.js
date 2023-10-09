@@ -19,7 +19,11 @@ const event = {
 const relay = {
  
   relayId: 'damus',
-  endpoint: 'wss//relay.damus.io',
+  endpoint: 'wss://relay.damus.io',
+
+  relayid: 'mutiny',
+  endpoint: 'wss://nostr.mutinywallet.com',
+
 };
 
   
