@@ -13,7 +13,6 @@ const event = {
   eventId: 'kind:31990,',
   timestamp: Date.now(),
   payload: { data: 'app' },
-  // ...
 };
 
 const relay = {
