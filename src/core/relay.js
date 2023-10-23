@@ -25,6 +25,12 @@ const relay = {
 
 };
 
+const npub = {
+  event: event;
+  npub: npub;
+  nsec: nse;
+
+
   
    
 
