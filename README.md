@@ -24,7 +24,7 @@ Nostr App Store on Nostr
 
 - [x] [PoC](https://github.com/AreaLayer/Nostr-App-Store-PoC)
 - [x] Initial App development
-- [ ] Alpha platform 
+- [ ] Beta platform
 - [ ] PWA
 - [x] Lightning Network integration via Zap
 - [ ] [PKGZap](https://pkgzap.albylabs.com/) for allow devs receive donations from users
