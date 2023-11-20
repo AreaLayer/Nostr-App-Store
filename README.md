@@ -28,4 +28,4 @@ Nostr App Store on Nostr
 - [ ] PWA
 - [x] Lightning Network integration via Zap
 - [x] [PKGZap](https://pkgzap.albylabs.com/) for allow devs receive donations from users
-- [ ] Advertising of Apps
+- [x] Advertising of Apps
