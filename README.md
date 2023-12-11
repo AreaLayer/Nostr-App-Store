@@ -24,6 +24,7 @@ Nostr App Store on Nostr
 
 - [x] [PoC](https://github.com/AreaLayer/Nostr-App-Store-PoC)
 - [x] Initial App development
+- [ ] UI/UX
 - [ ] Beta platform
 - [ ] PWA
 - [x] Lightning Network integration via Zap
