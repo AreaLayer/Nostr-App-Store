@@ -4,4 +4,4 @@
 -  Public
 -  Core
 -  Data
--  UI
+-  UI: User interface for NAS
