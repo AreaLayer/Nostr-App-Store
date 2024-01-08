@@ -1,3 +1,3 @@
-## Nostr App Store Releases
+## Nostr App Store Releases and Development
 
 TBD
