@@ -28,6 +28,7 @@ Nostr App Store on Nostr
 - [ ] Beta platform in 2024
 - [ ] PWA
 - [ ] Beta app
+- [ ] Convert from JS to TS
 - [x] Lightning Network integration via Zap
 - [x] [PKGZap](https://pkgzap.albylabs.com/) for allow devs receive donations from users
 - [x] Advertising of Apps
